@@ -1,0 +1,9 @@
+[{
+    "name": "SpiceJet",
+    "to": "DEL",
+    "from": "JPR",
+    "days": ["mon", "wed", "sun", "sat"],
+    "departureTime": "06:30 PM",
+    "arrivalTime": "07:30 PM",
+    "fare": 1200
+}]
